@@ -1,0 +1,10 @@
+
+builder-options:
+  build_web_compilers|entrypoint:
+    dart2js_args:
+      - --dump-info
+      - --no-frequency-based-minification
+      - --no-source-maps
+      - -O4
+  build_web_compilers:
+    filter_outputs: false
