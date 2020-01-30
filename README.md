@@ -10,4 +10,4 @@ Created from templates made available by Stagehand under a BSD-style
 
 http://rhyme95.win/angular_dart_hero
 
-![预览图](image/screen.png)
+![预览图](/image/screen.png)
