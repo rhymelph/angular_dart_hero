@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular_dart_hero|lib/src/component/hero_component/hero_service.dart","angular|lib/src/di/reflector.dart","angular|lib/angular.template.dart","angular_dart_hero|lib/src/model/hero.template.dart","http|lib/src/client.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

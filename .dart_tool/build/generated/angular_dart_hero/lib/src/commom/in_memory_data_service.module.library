@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["angular_dart_hero|lib/src/model/hero.dart","http|lib/http.dart","http|lib/testing.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math","convert"],"hasMain":false}

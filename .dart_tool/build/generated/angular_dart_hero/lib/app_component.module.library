@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular|lib/angular.dart","angular_router|lib/angular_router.dart","angular_dart_hero|lib/src/commom/route_paths.dart","angular_dart_hero|lib/src/commom/routes.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular|lib/angular.dart","angular_dart_hero|lib/app_component.template.dart","angular_router|lib/angular_router.dart","angular_dart_hero|lib/src/commom/in_memory_data_service.dart","http|lib/browser_client.dart","http|lib/http.dart","angular_dart_hero|web/main.template.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
